@@ -1,0 +1,6 @@
+# managed-by: gitflow-pages-navigation/hierarchical-v1
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: gitflow_navigation
